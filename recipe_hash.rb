@@ -24,6 +24,7 @@ perfect_10_ingredients = {
          :mini_dark_chocolate_chips => "3/4 cup",
          :olive_oil => "1/2 cup",
 }
+return perfect_10_ingredients
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
 def recipe_ingredients(perfect_10_recipe)
