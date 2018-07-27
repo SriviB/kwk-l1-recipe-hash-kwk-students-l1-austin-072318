@@ -23,6 +23,7 @@ perfect_10_recipe = {
          :slivered_almonds => "1/4 cup",
          :mini_dark_chocolate_chips => "3/4 cup",
          :olive_oil => "1/2 cup",
+         :agave => "1/4 cups"
 }
 puts perfect_10_recipe
 
