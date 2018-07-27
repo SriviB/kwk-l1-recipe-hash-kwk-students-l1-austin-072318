@@ -22,8 +22,7 @@ perfect_10_recipe = {
   :xanthan_gum => "1/2 tea spoon",
   :slivered_almonds_lightly_toasted => "1/4 cup",
   :mini_dark_chocolate_chips => "3/4 cup",
-  :olive_oil => "1/2 cups",
-  :agave => "1/4 cup"
+  :olive_oil => "1/2 cups"
 }
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
